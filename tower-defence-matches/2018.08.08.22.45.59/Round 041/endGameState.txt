@@ -1,0 +1,4 @@
+The winner is: B - James
+
+A - Bjarne- score:210 health:0
+B - James- score:2647 health:100
